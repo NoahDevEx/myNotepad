@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/close-button.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/diskette.png</file>
+        <file>icon/folder.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/save.png</file>
+        <file>icon/new-document.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/cutting.png</file>
+        <file>icon/notes.png</file>
+        <file>icon/info.png</file>
+        <file>icon/adobe-fonts.png</file>
+        <file>icon/color-wheel.png</file>
+    </qresource>
+</RCC>
